@@ -73,7 +73,7 @@ This project is intended for learners and enthusiasts who wish to understand dat
 If you’d like to go deeper:
 - [Scikit-learn Documentation on GMM](https://scikit-learn.org/stable/modules/mixture.html)
 - [Wikipedia: Gaussian Mixture Model](https://en.wikipedia.org/wiki/Mixture_model)
-- [A Gentle Introduction to GMMs](https://towardsdatascience.com/gaussian-mixture-models-d13a5e915e70)
+
 
 ---
 
